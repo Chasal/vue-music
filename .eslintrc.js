@@ -28,6 +28,7 @@ module.exports = {
     // 不检测文件末尾是否有空行
     'eol-last': 0,
     // function 前没有空格
-    'space-before-function-paren': 0
+    'space-before-function-paren': 0,
+    "indent": 0
   }
 }
